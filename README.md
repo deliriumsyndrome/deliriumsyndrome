@@ -1,124 +1,76 @@
 
 <div align="center">
 
-# `> SECURITY LAB_`
+# Security & Development
 
-**Information Security · Computer Security · Reverse Engineering**
+정보보호 · CTF · 리버스 엔지니어링 · 개발
 
-`Understand` · `Analyze` · `Exploit` · `Secure`
+보안 학습 내용을 정리하고, 실습과 프로젝트를 기록하는 공간입니다.
 
-![Security](https://img.shields.io/badge/Information_Security-111111?style=flat-square&logo=hackthebox&logoColor=00ff88)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=flat-square&logo=ghidra&logoColor=00ff88)
-![Learning](https://img.shields.io/badge/Always_Learning-111111?style=flat-square&logo=github&logoColor=00ff88)
+[![Study](https://img.shields.io/badge/Study-Security-34495e?style=flat-square)](https://dreamhack.io/)
+[![Language](https://img.shields.io/badge/Language-C%20%7C%20Python-3776AB?style=flat-square)](https://github.com/)
+[![Status](https://img.shields.io/badge/Status-Learning-2e8b57?style=flat-square)](https://github.com/)
 
 </div>
 
 ---
 
-## `whoami`
+## About
 
-```bash
-$ whoami
-security-enthusiast
+정보보호와 컴퓨터 보안에 관심을 가지고 공부하고 있습니다.
 
-$ cat mission.txt
-Study systems.
-Understand binaries.
-Analyze vulnerabilities.
-Build secure software.
-```
+Dreamhack을 통한 보안 학습과 CTF 문제 풀이를 중심으로,
+학습한 내용과 실습 과정을 정리하고 개인 프로젝트를 기록합니다.
 
-Interested in understanding how software works beneath the surface.
+## Learning
 
-Exploring computer security, low-level programming, reverse engineering, and vulnerability analysis through hands-on practice and continuous learning.
+- **Web Security** — 웹 취약점 및 공격 원리
+- **System Hacking** — 시스템 구조와 메모리, 바이너리 분석
+- **Reverse Engineering** — 프로그램의 동작 원리 분석
+- **Cryptography** — 암호학 기초 및 관련 문제 풀이
+- **Forensics** — 디지털 포렌식 및 데이터 분석
 
-- Information & Computer Security
-- Reverse Engineering & Binary Analysis
-- Malware Analysis
-- Vulnerability Research
-- CTF & Security Challenges
-- Low-Level Programming
+## Repository Structure
 
----
-
-## `areas_of_interest`
-
-| FIELD | FOCUS |
+| Directory | Description |
 |:--|:--|
-| `01` Reverse Engineering | Assembly, Disassembly, Binary Analysis |
-| `02` System Security | OS Internals, Memory, Processes |
-| `03` Vulnerability Research | Root Cause Analysis, Mitigation |
-| `04` Malware Analysis | Static & Dynamic Analysis |
-| `05` CTF | Pwn, Rev, Web, Forensics |
-| `06` Low-Level | C, C++, x86-64, Python |
+| `study-notes` | Dreamhack 학습 내용 및 개념 정리 |
+| `ctf-writeups` | CTF 문제 풀이 및 접근 과정 |
+| `practice` | 보안 실습 및 테스트 코드 |
+| `projects` | 개인 프로젝트 및 개발 기록 |
 
----
-
-## `tech_stack`
+## Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=00ff88)
-![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=00ff88)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00ff88)
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=00ff88)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-**Environment & Tools**
+**Tools & Environment**
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00ff88)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=00ff88)
-![GDB](https://img.shields.io/badge/GDB-Debugging-111111?style=flat-square&logo=gnu&logoColor=00ff88)
-![Ghidra](https://img.shields.io/badge/Ghidra-Reversing-111111?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-111111?style=flat-square&logo=wireshark&logoColor=00ff88)
+![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-Debugging-555555?style=flat-square)
+![Ghidra](https://img.shields.io/badge/Ghidra-Reversing-555555?style=flat-square)
 
----
+## Projects
 
-## `current_objectives`
+개인 프로젝트와 학습 과정에서 제작한 결과물을 기록할 예정입니다.
 
-```text
-[+] Learn computer architecture and assembly
-[+] Understand executable file formats
-[+] Practice reverse engineering
-[+] Study vulnerability discovery and mitigation
-[+] Solve CTF challenges
-[+] Document technical findings
-```
+- 보안 관련 도구 및 스크립트
+- 반복 작업 자동화
+- 개인 개발 프로젝트
 
----
+## Goals
 
-## `lab_notes`
-
-```text
-/research
-    /reverse-engineering
-    /binary-analysis
-    /vulnerability-research
-    /ctf-writeups
-    /security-tools
-```
-
-Experiments, technical notes, and lessons learned.
-
-Every binary has a story.
-Every vulnerability has a root cause.
-Every analysis brings a new perspective.
-
----
-
-## `philosophy`
-
-> Learn deeply. Analyze carefully. Think like an attacker. Build like a defender.
-
-I believe understanding how systems fail is an important step toward building systems that are more secure.
-
-All security testing and experiments are conducted in authorized environments.
+- Dreamhack 학습 내용 꾸준히 정리하기
+- CTF 문제 풀이 및 분석 과정 기록하기
+- 보안 기초와 프로그래밍 역량 쌓기
+- 학습한 내용을 바탕으로 개인 프로젝트 만들기
 
 ---
 
 <div align="center">
 
-`while (alive) { learn(); analyze(); improve(); }`
-
-**`[ END OF FILE ]`**
-
-</div>
+꾸준히 공부하고, 기록하고, 직접 만들어 보기.
