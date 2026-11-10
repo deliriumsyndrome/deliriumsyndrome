@@ -17,7 +17,7 @@
 
 ## About
 
-정보보호와 컴퓨터 보안에 관심을 가지고 공부하고 있습니다. 1차목표는 WHS(White Hat School)이며 이후 BOB(Best Of Best)까지 도전 해 볼 예정입니다!
+정보보호와 컴퓨터 보안에 관심을 가지고 공부하고 있습니다. 1차 목표는 WHS(White Hat School)이며 이후 BOB(Best Of Best)까지 도전 해 볼 예정입니다!
 
 Dreamhack을 통한 보안 학습과 CTF 문제 풀이를 중심으로,
 학습한 내용과 실습 과정을 정리하고 개인 프로젝트를 기록합니다.
